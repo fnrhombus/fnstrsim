@@ -69,11 +69,11 @@ Full API docs are on the [wiki](https://github.com/fnrhombus/fnstrsim/wiki).
 |---|---|---|---|---|
 | **Size** (min+gz) | **<2KB** | 2.1KB | 1.5KB | 8KB+ |
 | Algorithms | 4 | 1 | 1 | 3 |
-| TypeScript | native | no | no | yes |
-| ESM + CJS | yes | no | no | yes |
-| Tree-shakeable | yes | no | no | no |
-| Drop-in compatible | yes | — | partial | no |
-| Maintained | yes | abandoned | abandoned | yes |
+| TypeScript | ✅ native | ❌ | ❌ | ✅ |
+| ESM + CJS | ✅ | ❌ | ❌ | ✅ |
+| Tree-shakeable | ✅ | ❌ | ❌ | ❌ |
+| Drop-in compatible | ✅ | — | ⚠️ partial | ❌ |
+| Maintained | ✅ | ❌ abandoned | ❌ abandoned | ✅ |
 
 ## Install
 
