@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "pnpm --filter fnstrsim build",
+    "test": "pnpm --filter tests test"
+  }
+}
