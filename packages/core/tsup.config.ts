@@ -5,6 +5,9 @@ export default defineConfig({
   format: ["esm", "cjs"],
   dts: true,
   clean: true,
-  minify: true,
+  sourcemap: true,
+  target: "node20",
   splitting: false,
+  treeshake: true,
+  minify: false,
 });

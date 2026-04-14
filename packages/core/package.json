@@ -41,6 +41,16 @@
   "scripts": {
     "build": "tsup"
   },
+  "bugs": {
+    "url": "https://github.com/fnrhombus/fnstrsim/issues"
+  },
+  "homepage": "https://github.com/fnrhombus/fnstrsim#readme",
+  "engines": {
+    "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "tsup": "^8.0.0",
     "typescript": "^5.4.0"
